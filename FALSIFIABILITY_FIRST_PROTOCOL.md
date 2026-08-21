@@ -89,9 +89,13 @@ assembly to agent work — smaller than "first assembly", stated so.
    `not_affected` (a per-CLAIM null justification); eDiscovery TAR
    protocols bound the null set statistically by elusion sampling;
    penetration-test reporting standards require scope-and-exclusion
-   sections. The residue claimed: a per-RUN enumeration of what THIS
-   search was structurally incapable of seeing, attached to the zero as
-   an admissibility condition rather than as report hygiene.
+   sections. Machine-readable coverage
+   disclosure also now exists in scanning tools (a public scanner emits a
+   stats block with files_not_examined precisely so an unexamined file is
+   distinguishable from a clean one — acknowledged). The residue claimed:
+   the per-RUN enumeration of structural incapability attached to the
+   zero as a REFUSAL condition — reports without it are not accepted —
+   rather than as available metadata.
 7. **Corpus specialization: snapshot-boundary review.** Applied to a
    document corpus, the protocol takes a specific shape whose polarity
    deliberately inverts neighboring practice: review binds to a FROZEN
